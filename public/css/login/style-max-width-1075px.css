@@ -1,0 +1,6 @@
+/* style-max-width-1075px.css */
+@media (max-width: 1075px){
+	.social_icons {
+		width: 38%;
+	}
+}

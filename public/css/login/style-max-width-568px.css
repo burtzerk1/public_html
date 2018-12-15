@@ -1,0 +1,28 @@
+/* style-max-width-568px.css */
+@media (max-width:568px){
+div#container-speed{
+	width:256px !important;
+	height:180px !important;
+}
+div#container-rpm{
+	width:256px !important;
+	height:180px !important;
+}
+div#container-speed1{
+	width:256px !important;
+	height:180px !important;
+}
+div#container-rpm1{
+	width:256px !important;
+	height:180px !important;
+}
+div#page-wrapper {
+    padding: 2em 1em;
+}
+.sb-search.sb-search-open, .no-js .sb-search {
+    min-width: 260px;
+}
+div#page-wrapper {
+    padding: 1em 1em .1em;
+}
+}

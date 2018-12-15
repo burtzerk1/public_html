@@ -1,0 +1,22 @@
+/* style-max-width-667px.css */
+@media (max-width:667px){
+div#container-speed{
+	width:300px !important;
+	height:210px !important;
+}
+div#container-rpm{
+	width:300px !important;
+	height:210px !important;
+}
+div#container-speed1{
+	width:300px !important;
+	height:200px !important;
+}
+div#container-rpm1{
+	width:300px !important;
+	height:200px !important;
+}
+.grow {
+    left: 41%;
+}
+}

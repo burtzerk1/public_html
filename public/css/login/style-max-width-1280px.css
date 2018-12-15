@@ -1,0 +1,122 @@
+/* style-max-width-1280px.css */
+@media (max-width:1280px){
+.col-xs-8.activity-desc {
+  width: 63.666667%;
+}	
+.activity-desc p {
+  font-size: 12px;
+}
+.activity-desc h6 {
+  font-size: 11px;
+}
+i.text-info {
+  line-height: 39px;
+  font-size: 1em;
+}
+.pull-left {
+  width: 42%;
+}
+.login-social-link a {
+  padding: 13px 25px;
+  width: 45.5%;
+}
+div#container-speed{
+	width:220px !important;
+	height:160px !important;
+}
+div#container-rpm{
+	width:220px !important;
+	height:160px !important;
+}
+div#container-speed1{
+	width:220px !important;
+	height:160px !important;
+}
+div#container-rpm1{
+	width:220px !important;
+	height:160px !important;
+}
+.social_icons {
+    width: 32%;
+}
+.r3_counter_box .fa {
+    font-size: 3em;
+}
+.grow {
+    left:32%;
+}
+.r3_counter_box h5 {
+    font-size: 2.2em;
+}
+canvas#line {
+    width: 376px !important;
+    height: 100px !important;
+}
+canvas#bar {
+    width: 376px !important;
+    height: 100px !important;
+}
+canvas.overlay,canvas.base  {
+    height: 100px;
+}
+.activity-img1 {
+    width: 40%;
+}
+.activity-desc-sub:before {
+    left: -11%;
+}
+.activity-desc-sub1:after {
+    right: -8%;
+}
+.activity-row {
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+}
+.scrollbar1 {
+    height: 400px;
+}
+canvas#doughnut {
+    width: 364px !important;
+}
+canvas#radar {
+    width: 364px !important;
+}
+canvas#polarArea {
+    width: 364px !important;
+}
+canvas#line1 {
+    width: 530px !important;
+	height: 63px !important;
+}
+canvas#bar1 {
+    width: 540px !important;
+	height: 50px !important;
+}
+canvas#pie {
+    width: 340px !important;
+    height: 225px !important;
+}
+.editor {
+    padding: 1em 1.2em 2.5em 1.2em;
+}
+.table td, .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 16px !important;
+}
+.control2 {
+    height: 272px;
+}
+.main-content6 {
+    min-height: 1735px !important;
+}
+.signin:after {
+    background: url(./images/6.png) no-repeat 0px 0px;
+    width: 520px;
+    background-size: 100%;
+}
+.sign-up {
+    width: 50%;
+}
+.main-content4 {
+    min-height: 2360px !important;
+}
+}

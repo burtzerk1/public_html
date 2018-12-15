@@ -1,0 +1,78 @@
+/* style-max-width-384px.css */
+@media (max-width:384px){
+div#container-speed{
+	width:160px !important;
+	height:120px !important;
+}
+div#container-rpm{
+	width:160px !important;
+	height:120px !important;
+}
+div#container-speed1{
+	width:200px !important;
+	height:150px !important;
+}
+div#container-rpm1{
+	width:200px !important;
+	height:150px !important;
+}
+.switches1 {
+    margin: 5.3em 0em 0;
+}
+.login-form-info {
+    width: 100%;
+}
+.login-header {
+    padding: 1.5em 1em;
+}
+#loginBox {
+    right: -100px;
+}
+.dropdown-menu2 {
+    right: -12px;
+}
+.social_icons-left a {
+    font-size: .7em;
+}
+.user-panel-top li a {
+    padding: 10px 5px 0;
+}
+.sb-search {
+    left: 80px;
+}
+h4.asd label {
+    font-size: 13px;
+    padding-left: .5em;
+}
+.main-content2 {
+    min-height: 2680px !important;
+}
+footer p {
+    font-size: 13px;
+}
+.main-content3 {
+    min-height: 3080px !important;
+}
+.main-content4 {
+    min-height: 1640px !important;
+}
+.mailbox-content, .request {
+    margin: 0.5em 0em 0em;
+}
+.main-content3copy {
+    min-height: 1390px !important;
+}
+canvas#pie {
+    width: 295px !important;
+    height: 190px !important;
+}
+canvas#line1 {
+    width: 290px !important;
+}
+canvas#bar1 {
+    width: 285px !important;
+}
+.main-content6 {
+    min-height: 3485px !important;
+}
+}

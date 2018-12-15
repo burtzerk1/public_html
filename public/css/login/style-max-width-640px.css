@@ -1,0 +1,98 @@
+/* style-max-width-640px.css */
+@media (max-width:640px){
+div#container-speed{
+	width:280px !important;
+	height:200px !important;
+}
+div#container-rpm{
+	width:280px !important;
+	height:200px !important;
+}
+div#container-speed1{
+	width:280px !important;
+	height:200px !important;
+}
+div#container-rpm1{
+	width:280px !important;
+	height:200px !important;
+}
+.float-left {
+    width: 30%;
+}
+.input-group {
+    margin: 0 0 1em;
+    width: 70%;
+}
+.login-form-info input[type="submit"] {
+    margin-left: 1.05em;
+}
+.login-form-info {
+    width: 70%;
+}
+.social_icons {
+    width: 63%;
+}
+.widget1 {
+    margin-bottom: 1em;
+}
+.user-panel-top li:first-child {
+    margin: .2em 0 0;
+}
+h1.blank, h3.blank1 {
+    font-size: 1.5em;
+}
+.grid_box1 {
+    margin-bottom: 1em;
+}
+.main-content1 {
+    min-height: 2085px !important;
+}
+.main-content2 {
+    min-height: 2595px !important;
+}
+.main-content3 {
+    min-height: 3315px !important;
+}
+footer {
+    position: inherit;
+}
+.main-content3copy {
+    min-height: 1465px !important;
+}
+.sign-in-form {
+    width: 81%;
+}
+.sign-in-form-top {
+    padding: 2em 0 0;
+}
+.sign-up1 h4 {
+    font-size: 16px;
+}
+.main-content2copy {
+    min-height: 700px !important;
+}
+.error-main {
+    margin: 2em 0 5em;
+}
+body.sticky-header {
+    background: #000;
+}
+.sticky-left-side {
+    position: absolute;
+}
+.sticky-header .logo {
+    position: absolute;
+}
+.form-horizontal .control-label {
+    margin: 1em 0 1em 1em;
+    width: 100%;
+    text-align: left;
+}
+.jlkdfj1 {
+    padding-left: 1em;
+}
+.input-icon > i, .input-icon .icon {
+    margin: 66px 8px;
+}
+}
+

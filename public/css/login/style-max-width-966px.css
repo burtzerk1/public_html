@@ -1,0 +1,161 @@
+/* style-max-width-966px.css */
+@media (max-width:966px){
+.float-left {
+    width: 14%;
+}
+.input-group {
+    margin: 0 0 0 1em;
+	width:40%;
+}	
+.navbar-right {
+  margin-right:3px !important;
+}
+.col-md-3.widget {
+  width:100%;
+  float:none;
+}
+.span_7, .span_8, .col_4{
+  padding:0;
+}
+.span_8, .stats-info, .col_4{
+  margin-bottom:1em;
+}
+.span_4 {
+  padding: 0;
+  margin:1em 0;
+}
+.col_1_of_2.span_1_of_2 {
+  width: 50%;
+  float: left;
+}
+.graph_box {
+  text-align: center;
+}
+.grid_2 {
+  padding: 0;
+  margin-bottom: 1em;
+}
+.graph_box1 {
+  text-align: center;
+}
+.col-md-8.inbox_right {
+  padding: 0;
+  margin-top:1em;
+}
+.col-md-4.widget_1_box1 {
+  margin-bottom: 1em;
+}
+.follow {
+  padding: 1em;
+}
+.coffee-top{
+	text-align:center;
+}
+.coffee-top img{
+  display:inline-block;
+}
+.stats-info3{ 
+  padding:0;
+  margin-bottom:1em;
+}
+.widget_1_box2 {
+  padding: 0;
+  margin-top: 1em;
+}
+.wid_blog-desc {
+  padding: 1em;
+}
+.copy_layout {
+  margin: 1em 0 0em 0;
+}
+.login-social-link a.facebook {
+  margin-right: 10px;
+}
+.app-cam {
+  width: 30%;
+}
+.login-social-link a {
+  padding: 10px 15px;
+  width: 47.5%;
+}
+ul.new li.new_left, ul.new li.new_right {
+  float: none;
+}
+.coffee-top i {
+  top: 88%;
+  background: url(./images/1.png)no-repeat center;
+  left: 44%;
+  background-size: 70%;
+}
+.logo-element {
+  padding: 17px 0;
+}
+.col-md-3.widget.widget1 {
+  width:100%;
+}
+.grid_box1 {
+  margin-bottom: 5px;
+}
+.grid_4, .grid_5{
+  padding: 20px 10px;
+}
+.modal-dialog {
+  width: 400px !important;
+}
+.bs-example4, .bs-example5{
+  padding: 1em;
+}
+ul.new {
+  margin: 1em 0 0 0;
+  text-align: center;
+}
+.spark-left {
+    padding-left: 0;
+    padding-right: 0;
+    background: #fff;
+}
+.sparks-left {
+    margin: 1em 0;
+}
+.spar-left {
+    padding-right: 0;
+    background: #fff;
+}
+.spar-right {
+    margin-top: 1em;
+}
+.spark-right {
+    margin-top: 1em;
+}
+.switches-right {
+    padding-right: 1em;
+}
+div#container-speed{
+	width:225px !important;
+	height:170px !important;
+}
+div#container-rpm{
+	width:225px !important;
+	height:170px !important;
+}
+div#container-speed1{
+	width:225px !important;
+	height:170px !important;
+}
+div#container-rpm1{
+	width:225px !important;
+	height:170px !important;
+}
+div#char {
+    height: 202px !important;
+}
+.map {
+    margin:2em 0;
+}
+.login-form-info input[type="submit"] {
+    margin-left: 0.9em;
+}
+.sign-up {
+    width: 90%;
+}
+}

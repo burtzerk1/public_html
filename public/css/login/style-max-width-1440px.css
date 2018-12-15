@@ -1,0 +1,74 @@
+/* style-max-width-1440px.css */
+@media (max-width:1440px){
+.widget3 {
+    padding: 0 1em;
+}
+div#container-speed{
+	width:270px !important;
+	height:190px !important;
+}
+div#container-rpm{
+	width:270px !important;
+	height:190px !important;
+}
+div#container-speed1{
+	width:270px !important;
+	height:190px !important;
+}
+div#container-rpm1{
+	width:270px !important;
+	height:190px !important;
+}
+.widget4 {
+    padding: 0 1em;
+}
+.social_icons {
+    width: 28%;
+}
+canvas#line {
+    width: 428px !important;
+}
+canvas#bar {
+    width: 428px !important;
+}
+.panel .panel-heading {
+    padding: 17px 20px;
+    height: 48px;
+}
+canvas#radar {
+    width: 409px !important;
+    height: 256px !important;
+}
+canvas#polarArea {
+    width: 390px !important;
+    height: 256px !important;
+}
+.legend {
+    margin: 7em 0 0 2em;
+}
+canvas#pie {
+    width: 415px !important;
+    height: 267px !important;
+}
+canvas#line1 {
+    height: 76px !important;
+}
+canvas#bar1 {
+    height: 75px !important;
+}
+.sign-in-form {
+    width: 39%;
+}
+.signin:after {
+    background: url(./images/6.png) no-repeat 0px 0px;
+    width: 590px;
+    background-size: 100%;
+}
+.sign-up {
+    width: 45%;
+}
+canvas#doughnut {
+    width: 417px !important;
+    height: 255px !important;
+}
+}

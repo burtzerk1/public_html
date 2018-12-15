@@ -1,0 +1,12 @@
+/* style-max-width-424px.css */
+@media (max-width:424px){
+	.social_icons-left a {
+		padding: .6em 0.5em .5em;
+	}
+	.user-name {
+		width: 25%;
+	}
+	.sb-search.sb-search-open, .no-js .sb-search {
+		min-width: 145px;
+	}
+}

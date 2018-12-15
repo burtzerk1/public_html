@@ -1,0 +1,82 @@
+/* style-max-width-768px.css */
+@media (max-width:768px){
+	.user-panel-top li a {
+		padding: 10px 10px 0;
+	}
+	.sb-search {
+		left: 105px;
+		top: 5px;
+	}
+	.sb-search.sb-search-open, .no-js .sb-search {
+		min-width: 300px;
+	}
+	span.badge {
+		top: 4px;
+		right: 22px;
+	}
+	.main-content1 {
+		min-height: 1855px !important;
+	}
+	.panel .panel-heading {
+		padding: 15px 20px;
+		height: 45px;
+	}
+	.widget_middle {
+		margin: 1.5em 0 0.5em;
+	}
+	.main-content2 {
+		min-height: 2505px !important;
+	}
+	.main-content3 {
+		min-height: 2850px !important;
+	}
+	.float-left {
+		width: 20%;
+	}
+	.main-content3copy{
+		min-height: 1465px !important;
+	}
+	.graph_box {
+		margin-bottom: 0em;
+	}
+	.label {
+		padding: .2em .3em .3em;
+	}
+	.main-content6 {
+		min-height: 2285px !important;
+	}
+	.sign-in-form-top {
+		background: url(./images/3.jpg) no-repeat 0px -80px;
+		min-height: 115px;
+	}
+	.sign-in-form {
+		width: 66%;
+	}
+	.new_people a {
+		padding: 10px 30px;
+		font-size: 14px;
+	}
+	.error-main h3 {
+		font-size: 3.5em;
+	}
+	.error-main-right img {
+		width: 60%;
+	}
+	.main-content2copy {
+		min-height: 800px !important;
+	}
+	.jlkdfj1 {
+		padding: 0;
+	}
+	.input-group.in-grp1 {
+		margin: 0 1em;
+		width: 65%;
+	}
+	.form-horizontal .control-label {
+		width: 16%;
+		margin: 0 0 1em;
+	}
+	.input-icon > i, .input-icon .icon {
+		margin: 47px 8px;
+	}
+}

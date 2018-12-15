@@ -1,0 +1,389 @@
+/* style-max-width-1024px.css */
+@media (max-width:1024px){	
+.control2 {
+    height: 205px;
+}
+.float-left {
+    width:20%;
+}
+ul.collection li {
+    margin-bottom: 1em;
+}
+ul.float-right {
+    min-width: 140px;
+}
+.r3_counter_box .fa {
+	line-height: 80px;
+    font-size: 2em;
+	height: 85px;
+}
+.r3_counter_box1 .fa {
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+}
+.r3_counter_box h5 {
+	margin: 0;
+	font-size: 2em;
+}
+.r3_counter_box1 h5 {
+  font-size: 20px;
+}
+.fa.pull-left {
+    margin-right: 7% !important;
+}
+.stats span {
+  font-size: 13px;
+}
+.activity-img {
+  padding: 0 10px;
+}
+.col-xs-8.activity-desc {
+  width: 58.666667%;
+}
+.scrollbar {
+  padding: 10px;
+}
+.col-xs-1 {
+  padding: 0;
+}
+.activity-row {
+  margin-bottom: 1em;
+}
+.activity_box {
+  min-height: 355px;
+}
+.single-bottom ul li input[type="checkbox"]+label,.switch-right-grid ul li {
+    font-size: 13px;
+}
+.single-bottom ul li {
+    padding: 0px 20px 12px;
+}
+.scrollbar {
+  height: 278px;
+}
+.panel-title {
+	font-size: 15px;
+    padding-left: 2em;
+}
+.panel-heading {
+  padding: 20px 0px 0px;
+}
+.stats-info ul li {
+  padding: 7.4px 0;
+  font-size: 12px;
+}
+div#vmap {
+  height: 300px !important;
+}
+.bs-example1 {
+  padding: 10px;
+}
+.table td, .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+  padding: 12px !important;
+}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+  font-size: 12px;
+}
+.col_2 {
+  padding: 5px;
+}  
+.tiles_info .tiles-head {
+  padding: 5px 5px;
+  font-size: 11px;
+}
+.tiles_info .tiles-body {
+  font-size: 22px;
+  padding: 15px 15px;
+}
+.grid-date {
+  padding: 10px;
+}
+p.date-in, span.date-on{
+  font-size: 1em;
+}  
+.grid-date h4 {
+  font-size: 3.5em;
+  padding: 44px 0 15px 0;
+}
+.activity-desc h5 {
+  font-size: 13px;
+}
+.pull-left {
+  width: 35%;
+}
+.m-r-sm {
+  margin-right: 0px;
+}
+.mrg10A {
+  margin:1px!important;
+}  
+.tile-progress {
+  padding: 15px;
+}
+i.fa.fa-facebook, i.fa.fa-twitter, i.fa.fa-google-plus, i.fa.fa-dribbble, i.fa.fa-linkedin, i.fa.fa-youtube, i.fa.fa-skype, i.fa.fa-flickr{
+  font-size: 30px;
+}
+h3.count.text-light {
+  font-size: 30px;
+}
+.coffee-top i {
+  top: 70%;
+  background: url(./images/1.png)no-repeat center;
+  left: 31%;
+  background-size: 70%;
+}
+.follow {
+  padding: 3em 0px 2em;
+}
+.two p {
+  font-size: 12px;
+}
+.two span {
+  font-size: 1.3em;
+}
+.top-on1 p {
+  font-size: 0.85em;
+}
+.wid_blog h1 {
+  font-size: 1.3em;
+}
+.wid_blog {
+  padding: 2em;
+}
+.editor {
+  padding: 1em 1em 1.5em 1em;
+}
+.link1 {
+  padding: 5px 5px;
+}
+.wid_blog-desc {
+  padding:2.4em 1em;
+}
+.panel_2 {
+  padding: 2em 1em 0;
+}
+.online-top {
+  padding: 13.9px;
+}
+.friday h4 {
+    font-size: 1.5em;
+}
+.friday-bottom h5 {
+    font-size: 1.5em;
+}
+.main-grid1-grids {
+    min-height: 180px;
+	padding: 1em 2em 0;
+}
+.app-cam {
+  width: 27%;
+}
+.navbar-right {
+  margin-right: -10px;
+}
+.content-box-wrapper {
+  padding: 1em;
+}
+i.icon_4 {
+  margin-right: 10px;
+}
+span.badge {
+	right: 17px;
+	font-size: 9px;
+    line-height: 11px;
+    width: 15px;
+    height: 15px;
+}
+.r3_counter_box1.for h5 {
+    font-size: 32px;
+}
+.r3_counter_box1.for .stats span {
+    font-size: 16px !important;
+}
+div#container-speed{
+	width:165px !important;
+	height:130px !important;
+}
+div#container-rpm{
+	width:165px !important;
+	height:130px !important;
+}
+div#container-speed1{
+	width:165px !important;
+	height:130px !important;
+}
+div#container-rpm1{
+	width:165px !important;
+	height:130px !important;
+}
+.spark-left span {
+    left: 5px;
+    top: 25px!important;
+}
+.login-form-info input[type="password"] {
+    margin: 1.5em auto;
+}
+.login-form-info input[type="submit"] {
+    margin-left: 1.2em;
+}
+.sign-up {
+    width: 70%;
+}
+.sb-search.sb-search-open, .no-js .sb-search {
+    min-width: 187px;
+}
+.social_icons {
+    width: 39%;
+}
+.profile_details {
+    margin: 0 3.1em 0 1em;
+}
+.sb-search {
+    left: 80px;
+}
+.user-panel-top li {
+    margin-left: 6px;
+}
+.grow {
+    left: 28%;
+    top: 41%;
+}
+.switch-right-grid ul {
+    padding: 1em 0 1em;
+}
+canvas#line {
+    width: 294px !important;
+    height: 75px !important;
+}
+canvas#bar {
+    width: 294px !important;
+    height: 76px !important;
+}
+canvas.overlay, canvas.base {
+    height: 76px;
+}
+.activity-img span {
+    font-size: 10px;
+}
+.activity-desc-sub h5, .activity-desc-sub1 h5 {
+    font-size: 13px;
+    margin: 0 0 .1em;
+}
+.activity-desc-sub p, .activity-desc-sub1 p {
+    font-size: 12px;
+}
+.activity-desc-sub:before {
+    left: -14%;
+}
+.activity-desc1 {
+    width: 10%;
+}
+.activity-desc-sub1:after {
+    right: -10%;
+}
+.activity_box form {
+    padding: 0 1em;
+}
+.activity_box input[type="text"] {
+    padding: 6px 8px;
+    font-size: 13px;
+    width: 69%;
+}
+.activity_box input[type="submit"] {
+    font-size: 14px;
+    padding: 6px 0;
+}
+.single-bottom ul li input[type="checkbox"]+label span:first-child {
+    width: 13px;
+    height: 13px;
+    border: 1px solid #C8C8C8;
+    bottom: 3px;
+}
+.activity_box h3 {
+    padding: .7em;
+    font-size: 14px;
+}
+h1.blank, h3.blank1 {
+    font-size: 1.7em;
+}
+.biseller-column p {
+    font-size: 14px;
+}
+a.lightbox i {
+    margin: 0.7em 0;
+    font-size: 1.5em;
+}
+h4.asd label {
+    font-size: 14px;
+}
+.panel .panel-heading {
+    padding: 20px 20px;
+    height: 53px;
+}
+.panel_text {
+    font-size: 13px;
+}
+.editor {
+    padding: 1em 1em 1em 1em;
+}
+.main-content2 {
+    min-height: 1065px !important;
+}
+.main-content {
+    min-height: 975px;
+}
+.input-group {
+    width: 80%;
+}
+.main-content4 {
+    min-height: 1995px !important;
+}
+ul.collection {
+    padding: 1em;
+}
+span.badge1 {
+    min-width: 2rem;
+    right: 25px;
+}
+canvas#doughnut {
+    width: 272px !important;
+    height: 180px !important;
+}
+canvas#radar {
+    width: 274px !important;
+    height: 182px !important;
+}
+canvas#polarArea {
+    width: 273px !important;
+    height: 183px !important;
+}
+canvas#line1 {
+    width: 405px !important;
+	height: 127px !important;
+}
+.sign-in-form {
+    width: 49%;
+}
+.error-main h3 {
+    font-size: 4em;
+}
+.error-main p {
+    font-size: 1.2em;
+}
+.legend {
+    margin: 1em auto 2em;
+    float: none;
+}
+canvas#pie {
+    width: 410px !important;
+    height: 270px !important;
+}
+canvas#bar1 {
+    width: 410px !important;
+    height: 140px !important;
+}
+.input-group.in-grp1 {
+    margin: 0;
+}
+}

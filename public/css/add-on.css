@@ -1,0 +1,126 @@
+/* add-on.css */
+.cancelled {
+    background: 
+       linear-gradient(to top left,
+           rgba(255,0,0,0) 0%,
+           rgba(255,0,0,0) calc(50% - 2px),
+           rgba(255,0,0,1) 50%,
+           rgba(255,0,0,0) calc(50% + 2px),
+           rgba(255,0,0,0) 100%),
+       linear-gradient(to top right,
+           rgba(255,0,0,0) 0%,
+           rgba(255,0,0,0) calc(50% - 2px),
+           rgba(255,0,0,1) 50%,
+           rgba(255,0,0,0) calc(50% + 2px),
+           rgba(255,0,0,0) 100%);
+}
+
+#print-container {
+	display:none ;
+}
+@media print {
+	#container {
+		display:none ;
+	}
+	#print-container {
+		display:block ;
+	}
+}
+
+.action-box i:not(:last-child) {
+	padding-right: 4px ;
+}
+
+.rotate-90 {
+
+/* Safari */
+-webkit-transform: rotate(-90deg);
+
+/* Firefox */
+-moz-transform: rotate(-90deg);
+
+/* IE */
+-ms-transform: rotate(-90deg);
+
+/* Opera */
+-o-transform: rotate(-90deg);
+  
+}
+
+.week-has-comp {
+	background-color: silver ;
+}
+
+.class-default-activity {
+	background-color: #e5e5e5;
+}
+
+.week-has-comp.class-default-activity {
+	background-blend-mode: darken, luminosity;
+}
+
+.hide-with-chevron
+{
+	display: none ;
+}
+.hide-with-chevron.show-once {
+	display:table-row-group ;
+}
+
+header {
+	border-bottom: 1px solid #D0D0D0;
+	display:flex ;
+	margin-right:-20px;
+}
+	
+header > * {
+	display : inline-block ;
+}
+
+header > h1 {
+/* 	width: 100px ; */
+	white-space : nowrap ;
+	border-bottom: none;
+}
+header > div {
+	width : 100% ;
+	margin-right:40px ;
+	text-align:right ;
+	margin-top:20px ;
+	margin-bottom: 10px ;
+	line-height:1.1 ;
+	vertical-align:middle ;
+	padding-top : 14px ;
+}
+
+header > div.login, header > div.logout {
+	cursor: pointer ;
+}
+
+/* do not show the radio buttons */
+div.show-with-chevron input[name="show_chevron"] {
+	display:none ;
+}
+
+/* automatically display labels that come directly after a radio */
+div.show-with-chevron input[name="show_chevron"] + label {
+	display:inline-block ;
+}
+	
+/* do not show a label that comes immediately after a checked radio */
+div.show-with-chevron input[name="show_chevron"]:checked + label {
+	display:none ;
+}
+
+div.show-with-chevron input[name="show_chevron"][value="show"]:checked ~ div.hide-with-chevron {
+	display:block ;
+}
+
+.red {
+	color: red ;
+}
+/*div.show-with-chevron input[name="show_chevron"][value="hide"]:checked label {
+	display:none ;
+}*/
+
+

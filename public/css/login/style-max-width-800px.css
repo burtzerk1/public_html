@@ -1,0 +1,94 @@
+/* style-max-width-800px.css */
+@media (max-width:800px){
+	.profile_details_left {
+		float: none;
+	}
+	.social_icons {
+		float: left;
+		width: 60%;
+		margin-left: 1em;
+		margin: 1em 0 1em 1em;
+	}
+	.sticky-header .main-content {
+		padding-top: 100px;
+	}
+	.grow {
+		left: 43%;
+	}
+	.switch-right {
+		width: 100%;
+		float: none;
+		margin-right: 0%;
+	}
+	canvas#line,canvas#bar {
+		width: 100% !important;
+		height: auto !important;
+	}
+	.span_8 {
+		float: none;
+		width: 100%;
+		margin-right: 0;
+	}
+	.left-side-collapsed .logo-icon {
+		height: 100px;
+	}
+	.logo-icon a i {
+		padding-top: 30px;
+	}
+	.activity-img1 {
+		width: 17%;
+	}
+	.activity-desc-sub1:after {
+		right: -4%;
+	}
+	.main-content2 {
+		min-height: 2565px !important;
+	}
+	.panel-body.panel-body-inputin {
+		padding: 1em 0;
+	}
+	.form-horizontal .control-label {
+		float: left;
+		width: 13%;
+		padding: 0;
+	}
+	.input-group {
+		width: 55%;
+		float: left;
+	}
+	.main-content3 {
+		min-height: 2815px !important;
+	}
+	.panel-body1 {
+		padding: 1em;
+		margin: 1em 0 0 0;
+	}
+	.panel-warning {
+		margin-top: 1em;
+	}
+	.main-content4 {
+		min-height: 1910px !important;
+	}
+	.main-content3copy {
+		min-height: 1475px !important;
+	}
+	.grid_2 {
+		float: none;
+		width: 100%;
+	}
+	.main-content5 {
+		min-height: 2080px !important;
+	}
+	.sign-in-form {
+		width: 64%;
+	}
+	.new_people h4 {
+		font-size: 1.7em;
+	}
+	.error-main-right {
+		margin-top: 3em;
+	}
+	.main-content2copy {
+		min-height: 1100px !important;
+	}
+}

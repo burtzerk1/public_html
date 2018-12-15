@@ -1,0 +1,9 @@
+/* style-max-width-1680px.css */
+@media (max-width:1680px){
+	canvas#line {
+		width: 507px !important;
+	}
+	canvas#bar {
+		width: 507px !important;
+	}
+}

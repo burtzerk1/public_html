@@ -1,0 +1,6 @@
+/* style-max-width-445px.css */
+@media (max-width:445px){
+	.social_icons-left {
+		padding-left: .5em;
+	}
+}

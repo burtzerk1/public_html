@@ -1,0 +1,88 @@
+/* style-max-width-1366px.css */
+@media (max-width:1366px){
+.col-xs-8.activity-desc {
+  width: 64.666667%;
+  padding: 0;
+}	
+.activity-desc h5 {
+  font-size: 0.85em;
+}  
+.svg{
+  width: 600px !important;
+  height: 400px;
+}
+canvas#line{
+    width: 404px !important;
+}
+canvas#bar {
+    width: 404px !important;
+}
+.panel .panel-heading {
+    padding: 21px 20px;
+    height: 55px;
+}
+.avatar_left {
+  width: 65%;
+}
+.pull-left {
+  width: 47%;
+}
+.login-social-link a.facebook {
+  margin-right: 20px;
+}
+.widget3 {
+    padding: 0 0em;
+}
+.widget4 {
+    padding: 0 0em;
+}
+div#container-speed{
+	width:250px !important;
+	height:170px !important;
+}
+div#container-rpm{
+	width:250px !important;
+	height:170px !important;
+}
+div#container-speed1{
+	width:250px !important;
+	height:170px !important;
+}
+div#container-rpm1{
+	width:250px !important;
+	height:170px !important;
+}
+text.highcharts-yaxis-title {
+    margin-top: 0 !important;
+}
+.social_icons {
+    width: 30%;
+}
+canvas#doughnut {
+    width: 390px !important;
+    height: 240px !important;
+}
+canvas#radar {
+    width: 392px !important;
+    height: 242px !important;
+}
+canvas#polarArea {
+    width: 375px !important;
+    height: 242px !important;
+}
+canvas#pie {
+    width:393px !important;
+    height: 266px !important;
+}
+.error-main h3 {
+    font-size: 5em;
+}
+.activity_box input[type="submit"] {
+    width: 26%;
+}
+.signin:after {
+    background: url(./images/6.png) no-repeat 0px 0px;
+    width: 563px;
+    background-size: 100%;
+}
+}

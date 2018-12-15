@@ -1,0 +1,7 @@
+/* style-max-width-375px.css */
+
+@media (max-width:375px){
+	ul.dropdown-menu {
+		min-width: 167px;
+	}
+}

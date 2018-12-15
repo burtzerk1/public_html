@@ -1,0 +1,6 @@
+/* style-max-width-739px.css */
+@media (max-width: 739px){
+	.float-left {
+		width: 15%;
+	}
+}

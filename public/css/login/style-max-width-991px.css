@@ -1,0 +1,102 @@
+/* style-max-width-991px.css */
+@media (max-width:991px){
+	.social_icons {
+		width: 41%;
+	}
+	.social_icons-left {
+		float: left;
+	}
+	.profile_details {
+		margin: 0 3.1em 0 0em;
+	}
+	.user-panel-top li a {
+		padding: 5px 1px;
+	}
+	.sb-search {
+		left: 65px;
+	}
+	.widget1 {
+		margin-right: 2%;
+	}
+	.widget {
+		width: 23.5%;
+		float: left;
+	}
+	.switch-right {
+		width: 32%;
+		float: left;
+		margin-right: 2%;
+	}
+	canvas#line {
+		width: 275px !important;
+	}
+	canvas#bar {
+		width: 275px !important;
+	}
+	.span_8 {
+		float: left;
+	}
+	.switches {
+		margin: 1em 0 0;
+	}
+	.grid_box1 {
+		margin-bottom: 1em;
+	}
+	.widget_1_box2 {
+		padding: 0;
+	}
+	.widget_middle_left, .widget_bottom_left {
+		padding-right: 0;
+	}
+	.main-content2 {
+		min-height: 2020px !important;
+	}
+	.main-content3 {
+		min-height: 3200px !important;
+	}
+	.inbox_right {
+		padding-left: 0;
+		margin: 1.5em 0 0;
+	}
+	.grid_2 {
+		float: left;
+		width: 33.33%;
+		padding:0 10px;
+	}
+	canvas#doughnut {
+		width: 266px !important;
+		height: 170px !important;
+	}
+	canvas#radar {
+		width: 265px !important;
+		height: 170px !important;
+	}
+	canvas#polarArea {
+		width: 265px !important;
+		height: 170px !important;
+	}
+	.grid_2_bot {
+		float: none;
+		width: 100%;
+	}
+	.grid_2_bot:nth-child(2) {
+		margin:1.5em 0 0;
+	}
+	.media_1-left {
+		padding-right: 0;
+	}
+	.media_1-right {
+		padding-left: 0;
+		margin-top: 1.5em;
+	}
+	.main-content6 {
+		min-height: 2200px !important;
+	}
+	.sign-in-form {
+		width: 52%;
+	}
+	.error-main-right img {
+		width: 50%;
+	}
+	
+}
